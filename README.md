@@ -7,12 +7,13 @@
 ## ✨ 特性与初衷
 
 PrismCore 旨在为 Minecraft 脚本编写提供一个便捷的 JavaScript 执行环境。其开发初衷是为了简化自动化脚本的创建过程。
+[点击这里打开文档](https://baidu.com)
 
 ### 🏝️ Skyblock 相关
 
 本模组设计初衷就是为了提升skyblock脚本的开发体验，许多基础功能（如挖方块、自动寻路等）已被抽离并封装在配套库**Matcha337/SkyblockLib**中：
 *   
-我们强烈建议开发者查阅 [SkyblockLib 的文档](https://github.com/Matcha337/SkyblockLib)，利用其提供的丰富功能来构建更强大的脚本。
+我们强烈建议开发者查阅 [SkyblockLib仓库](https://github.com/Matcha337/SkyblockLib)，以减轻开发负担。
 
 ## 🐛 报告问题 & 💡 提出建议
 
